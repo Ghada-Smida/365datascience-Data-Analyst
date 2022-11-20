@@ -1,0 +1,5 @@
+MODULES:
+1.pandas- Basics
+2.Data Cleaning and data preprocessing
+3.pandas Series
+4.pandas DataFrames
