@@ -1,0 +1,13 @@
+MODULES:
+
+1.Introduction To NumPy
+2.Why Do We Use NumPy?
+3.NumPy Fundamentals
+4.Working With Arrays
+5.Generating Data With NumPy
+6.Importing And Saving Data With NumPy
+7.Statistics With NumPy
+8.Data Manipulation With NumPy
+9.A Loan Data Practical Example With NumPy
+
+
